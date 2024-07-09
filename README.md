@@ -16,4 +16,4 @@ Nesse projeto utilizei:
 
 
 
-[Acesse o site da Calculadora]([https://calculadora-imc-jhn.vercel.app/](https://meus-links-jhn.vercel.app/))
+[Acesse o site ]((https://meus-links-jhn.vercel.app/))
